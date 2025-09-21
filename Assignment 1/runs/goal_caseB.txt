@@ -1,0 +1,7 @@
+--- Goal-Based Demo: Case B (empty pantry -> show MissingIngredients and AdditionalCost) ---
+Pantry: []
+Selected meal: <unknown>
+MissingIngredients: ['eggs', 'cheese', 'spinach', 'bread', 'butter']
+AdditionalCost: 2.65
+TotalIngredientCost: 2.65
+-------------------------------

@@ -1,0 +1,7 @@
+--- Goal-Based Demo: Case A (pantry covers first meal -> AdditionalCost=0 expected) ---
+Pantry: ['chicken', 'tortilla', 'onion', 'salsa', 'lime']
+Selected meal: <unknown>
+MissingIngredients: []
+AdditionalCost: 0
+TotalIngredientCost: 6.2
+-------------------------------
