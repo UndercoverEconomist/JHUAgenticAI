@@ -1,0 +1,11 @@
+langchain
+openai
+sympy
+# Environment loader
+python-dotenv
+# Optional: add your LLM client (e.g., qwen-sdk) if you want real Qwen calls
+# qwen-sdk
+ollama
+requests
+datasets
+tqdm
